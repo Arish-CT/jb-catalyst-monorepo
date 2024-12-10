@@ -58,7 +58,7 @@
     "tailwind-merge": "^2.5.5",
     "tailwindcss-radix": "^3.0.5",
     "uuid": "^11.0.3",
-    "zod": "^3.23.8"
+    "zod": "^3.24.0"
   },
   "devDependencies": {
     "@0no-co/graphqlsp": "^1.12.16",
@@ -66,13 +66,13 @@
     "@faker-js/faker": "^9.3.0",
     "@gql.tada/cli-utils": "^1.6.3",
     "@next/bundle-analyzer": "15.0.4",
-    "@playwright/test": "^1.49.0",
+    "@playwright/test": "^1.49.1",
     "@tailwindcss/container-queries": "^0.1.1",
     "@types/gtag.js": "^0.0.20",
     "@types/lodash.debounce": "^4.0.9",
     "@types/node": "^20.17.9",
     "@types/react": "^19.0.1",
-    "@types/react-dom": "^19.0.1",
+    "@types/react-dom": "^19.0.2",
     "@types/react-google-recaptcha": "^2.1.9",
     "@types/uuid": "^10.0.0",
     "autoprefixer": "^10.4.20",
